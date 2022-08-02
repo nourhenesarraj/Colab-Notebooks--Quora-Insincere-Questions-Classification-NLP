@@ -1,7 +1,7 @@
 # Quora-Insincere-Questions-Classification-NLP-
 Transfer Learning for NLP with TensorFlow Hub.
 
-This project/notebook consists of several Tasks.
+This notebook consists of several Tasks.
 
 Task 1: Download and Import the Quora Insincere Questions Dataset
 Task 2: TensorFlow Hub for Natural Language Processing
